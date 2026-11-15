@@ -72,7 +72,7 @@ class JarvisService : Service() {
 
     companion object {
         const val API_KEY = "YOUR_API_KEY"   // console.anthropic.com থেকে নেওয়া কী
-        const val CITY = "YOUR_CITY"         // ওয়েদারের জন্য আপনার শহর
+        const val CITY = "Barasat"         // ওয়েদারের জন্য আপনার শহর
         val WAKE = listOf("জার্ভিস", "জারভিস", "জার্ভেস", "jarvis")
     }
 
